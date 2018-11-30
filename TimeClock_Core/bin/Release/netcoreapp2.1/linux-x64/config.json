@@ -1,0 +1,5 @@
+{
+  //"DataSource": "server=onshore-wfd.database.windows.net;database=LMS_Mirror;user id=myadmin;password=@Onshore!",
+  "DataSource" :  "server=Admin2-PC\\SQLEXPRESS;database=TimeClock;Trusted_Connection=true;",
+  "ApiKey": "AHyHSZabeMZnPVKti9CRY5PEShVpyU"
+}
